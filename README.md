@@ -11,6 +11,8 @@ Repositório criado para apresentar os cursos concluídos e em andamento, assim 
 
 
 ## 📅 Próximos cursos:
+- [ ] **Frontend Master**
+* Plataforma
 
 
 
