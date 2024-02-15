@@ -23,7 +23,7 @@ Repositório criado para apresentar os cursos concluídos e em andamento, assim 
   Grau de prioridade na escolha dos próximos cursos: 
   
   🟢 ==   
-  🟡 ==
+  🟡 ==  
   🟣 ==      
   🟠 ==  
 
