@@ -3,7 +3,6 @@
 Repositório criado para apresentar os cursos concluídos e em andamento.
 
 ## ✔️ Cursos concluídos:
-certificados de cursos concluídos.
 
 | Curso | Plataforma | Data | Duração (em horas) | 
 |---------------------------------------------------------|------------|------------|--------------------| 
